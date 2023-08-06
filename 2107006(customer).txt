@@ -1,0 +1,1026 @@
+// OUTPUT FILE 
+// Customer Section 
+
+=====================================================================
+
+-------------------------------------------------------------------
+|             Welcome to the Supershop Management System          |
+-------------------------------------------------------------------
+
+                   ::Choose a mode to login::
+
+1. Store Manager
+2. Customer
+3. Exit
+
+2
+
+2
+================================================================================================
+
+-------------------------------- -WELCOME TO OUR SUPERSHOP!!!----------------------------------
+
+          I am Namira, the cashier and I will be here the whole time to assist you!
+
+BUT BEFORE YOU CAN START BROWSING AND START SHOPPING HERE WE NEED TO REGISTER YOUR INFORMATIONS!!!
+
+
+Please enter your id:
+
+1
+
+Please enter your name:
+
+Sarwad
+
+Please enter your address:
+
+Khanabari
+
+Please enter your contact number:
+
+01869965299
+
+Please enter your email address:
+
+sarwad015@gmail.com
+
+Please enter your gender:
+
+Male
+
+Thank you for being with us here today Sarwad,  Sir!
+
+Please let us know how can we be of your service today, Sir:
+
+                        //1. Showing the whole inventory 
+
+1. Show the whole inventory of products
+
+2. Show only the available products
+
+3. Start Shopping from the available products
+
+4. Request Restock of an unavailable product
+
+5. Exit & Process your purchase
+
+
+1
+________________________________________
+There are total 10 products in the shop
+
+
+
+Product ID: 1
+Product Name: Toothpaste
+Product Price: 80
+Product Quantity: 7
+Product Category: Toiletries
+Product Availability: Available
+
+
+
+Product ID: 2
+Product Name: Soap
+Product Price: 50
+Product Quantity: 10
+Product Category: Toiletries
+Product Availability: Available
+
+
+
+Product ID: 3
+Product Name: Shampoo
+Product Price: 140
+Product Quantity: 8
+Product Category: Toiletries
+Product Availability: Available
+
+
+
+Product ID: 4
+Product Name: Notebook
+Product Price: 100
+Product Quantity: 18
+Product Category: Stationary
+Product Availability: Available
+
+
+
+Product ID: 5
+Product Name: Pens
+Product Price: 10
+Product Quantity: 40
+Product Category: Stationary
+Product Availability: Available
+
+
+
+Product ID: 6
+Product Name: Books
+Product Price: 250
+Product Quantity: 1
+Product Category: Stationary
+Product Availability: Available
+
+
+
+Product ID: 7
+Product Name: Perfume
+Product Price: 400
+Product Quantity: 0
+Product Category: Beauty
+Product Availability: Not Available
+
+
+
+Product ID: 8
+Product Name: Fan
+Product Price: 4000
+Product Quantity: 3
+Product Category: Household
+Product Availability: Available
+
+
+
+Product ID: 9
+Product Name: Bag
+Product Price: 1300
+Product Quantity: 5
+Product Category: Utilities
+Product Availability: Available
+
+
+
+Product ID: 10
+Product Name: Medicine
+Product Price: 90
+Product Quantity: 13
+Product Category: Medical
+Product Availability: Available
+
+
+
+Product ID: 11
+Product Name: Pen
+Product Price: 10
+Product Quantity: 10
+Product Category: Stationary
+Product Availability: Available
+
+________________________________________
+
+
+                                //2. Showing the only products
+
+1. Show the whole inventory of products
+
+2. Show only the available products
+
+3. Start Shopping from the available products
+
+4. Request Restock of an unavailable product
+
+5. Exit & Process your purchase
+
+2
+________________________________________
+There are 10 products currently available in the shop
+
+
+
+Product ID: 1
+Product Name: Toothpaste
+Product Price: 80
+Product Quantity: 7
+Product Category: Toiletries
+Product Availability: Available
+
+
+
+Product ID: 2
+Product Name: Soap
+Product Price: 50
+Product Quantity: 10
+Product Category: Toiletries
+Product Availability: Available
+
+
+
+Product ID: 3
+Product Name: Shampoo
+Product Price: 140
+Product Quantity: 8
+Product Category: Toiletries
+Product Availability: Available
+
+
+
+Product ID: 4
+Product Name: Notebook
+Product Price: 100
+Product Quantity: 18
+Product Category: Stationary
+Product Availability: Available
+
+
+
+Product ID: 5
+Product Name: Pens
+Product Price: 10
+Product Quantity: 40
+Product Category: Stationary
+Product Availability: Available
+
+
+
+Product ID: 6
+Product Name: Books
+Product Price: 250
+Product Quantity: 1
+Product Category: Stationary
+Product Availability: Available
+
+
+
+Product ID: 8
+Product Name: Fan
+Product Price: 4000
+Product Quantity: 3
+Product Category: Household
+Product Availability: Available
+
+
+
+Product ID: 9
+Product Name: Bag
+Product Price: 1300
+Product Quantity: 5
+Product Category: Utilities
+Product Availability: Available
+
+
+
+Product ID: 10
+Product Name: Medicine
+Product Price: 90
+Product Quantity: 13
+Product Category: Medical
+Product Availability: Available
+
+
+
+Product ID: 11
+Product Name: Pen
+Product Price: 10
+Product Quantity: 10
+Product Category: Stationary
+Product Availability: Available
+
+________________________________________
+
+                        //3. Starting to shop
+
+1. Show the whole inventory of products
+
+2. Show only the available products
+
+3. Start Shopping from the available products
+
+4. Request Restock of an unavailable product
+
+5. Exit & Process your purchase
+
+3
+
+________________________________________
+There are 10 products currently available in the shop
+
+
+
+Product ID: 1
+Product Name: Toothpaste
+Product Price: 80
+Product Quantity: 7
+Product Category: Toiletries
+Product Availability: Available
+
+
+
+Product ID: 2
+Product Name: Soap
+Product Price: 50
+Product Quantity: 10
+Product Category: Toiletries
+Product Availability: Available
+
+
+
+Product ID: 3
+Product Name: Shampoo
+Product Price: 140
+Product Quantity: 8
+Product Category: Toiletries
+Product Availability: Available
+
+
+
+Product ID: 4
+Product Name: Notebook
+Product Price: 100
+Product Quantity: 18
+Product Category: Stationary
+Product Availability: Available
+
+
+
+Product ID: 5
+Product Name: Pens
+Product Price: 10
+Product Quantity: 40
+Product Category: Stationary
+Product Availability: Available
+
+
+
+Product ID: 6
+Product Name: Books
+Product Price: 250
+Product Quantity: 1
+Product Category: Stationary
+Product Availability: Available
+
+
+
+Product ID: 8
+Product Name: Fan
+Product Price: 4000
+Product Quantity: 3
+Product Category: Household
+Product Availability: Available
+
+
+
+Product ID: 9
+Product Name: Bag
+Product Price: 1300
+Product Quantity: 5
+Product Category: Utilities
+Product Availability: Available
+
+
+
+Product ID: 10
+Product Name: Medicine
+Product Price: 90
+Product Quantity: 13
+Product Category: Medical
+Product Availability: Available
+
+
+
+Product ID: 11
+Product Name: Pen
+Product Price: 10
+Product Quantity: 10
+Product Category: Stationary
+Product Availability: Available
+
+________________________________________
+
+Choose your query
+
+1. Add a product to cart
+
+2. Remove a product from cart
+
+3. Search a product
+
+4. Show your cart
+
+5. Checkout
+
+                           //3.a. Adding product to cart
+
+Choose your query
+
+1. Add a product to cart
+
+2. Remove a product from cart
+
+3. Search a product
+
+4. Show your cart
+
+5. Checkout
+
+1
+
+Which product do you want?Please enter it's id and quantity:
+
+ID:
+
+1
+
+Quantity:
+
+7
+
+The product has been successfully added to your cart
+
+Do you want to add more products?Type Yes/yes if you want to.
+
+Yes 
+
+Which product do you want?Please enter it's id and quantity:
+
+ID:
+
+2
+
+Quantity:
+
+2
+
+The product has been successfully added to your cart
+
+Do you want to add more products?Type Yes/yes if you want to.
+
+No
+
+                            // Removing a product 
+
+Choose your query
+
+1. Add a product to cart
+
+2. Remove a product from cart
+
+3. Search a product
+
+4. Show your cart
+
+5. Checkout
+
+2
+
+Which product do you want to remove from the cart?Please enter it's id and quantity:
+
+ID:
+
+1
+
+Quantity:
+
+2
+
+The product has been successfully removed from your cart
+
+Do you want to remove more products?Type Yes/yes if you want to.
+
+No 
+
+                            // Searching a product 
+
+Choose your query
+
+1. Add a product to cart
+
+2. Remove a product from cart
+
+3. Search a product
+
+4. Show your cart
+
+5. Checkout
+
+3
+
+Choose the way you want to search the products
+
+
+ 1. Search by id
+
+
+ 2. Search by name
+
+
+ 3. Search by category
+
+
+ 4. Search by price range
+
+                             //Search by id 
+
+Please enter the id of the product
+
+ID:
+
+1
+
+
+=========================================================================
+
+Your desired product has been found in our shop
+
+The product is available
+ 
+
+Product ID: 1
+Product Name: Toothpaste
+Product Price: 80
+Product Quantity: 2
+Product Category: Toiletries
+Product Availability: Available
+
+
+=========================================================================
+
+
+                            //Search by name
+
+Choose the way you want to search the products
+
+
+ 1. Search by id
+
+
+ 2. Search by name
+
+
+ 3. Search by category
+
+
+ 4. Search by price range
+
+2
+
+Please enter the name of the product
+
+Name:
+
+Pen
+
+
+=========================================================================
+
+Your desired product has been found in our shop
+
+The product is available
+
+
+Product ID: 11
+Product Name: Pen
+Product Price: 10
+Product Quantity: 10
+Product Category: Stationary
+Product Availability: Available
+
+
+=========================================================================
+
+                            //Search by Category 
+
+Choose the way you want to search the products
+
+
+ 1. Search by id
+
+
+ 2. Search by name
+
+
+ 3. Search by category
+
+
+ 4. Search by price range
+
+3
+
+Please enter the category of the product
+
+Category:
+
+Stationary
+
+=========================================================================
+
+
+
+There are 4 products available in this category
+
+
+Product ID: 4
+Product Name: Notebook
+Product Price: 100
+Product Quantity: 18
+Product Category: Stationary
+Product Availability: Available
+
+Product ID: 5
+Product Name: Pens
+Product Price: 10
+Product Quantity: 40
+Product Category: Stationary
+Product Availability: Available
+
+Product ID: 6
+Product Name: Books
+Product Price: 250
+Product Quantity: 1
+Product Category: Stationary
+Product Availability: Available
+
+Product ID: 11
+Product Name: Pen
+Product Price: 10
+Product Quantity: 10
+Product Category: Stationary
+Product Availability: Available
+
+=========================================================================
+
+                            //Search by price range 
+
+Choose the way you want to search the products
+
+
+ 1. Search by id
+
+
+ 2. Search by name
+
+
+ 3. Search by category
+
+
+ 4. Search by price range
+
+4
+
+Please enter the price range of the product
+
+Lowest Price range:
+
+0
+
+Highest Price range:
+
+1000
+
+=========================================================================
+
+
+
+There are 9 products available in this price range
+
+
+Product ID: 1
+Product Name: Toothpaste
+Product Price: 80
+Product Quantity: 2
+Product Category: Toiletries
+Product Availability: Available
+
+Product ID: 2
+Product Name: Soap
+Product Price: 50
+Product Quantity: 8
+Product Category: Toiletries
+Product Availability: Available
+
+Product ID: 3
+Product Name: Shampoo
+Product Price: 140
+Product Quantity: 8
+Product Category: Toiletries
+Product Availability: Available
+
+Product ID: 4
+Product Name: Notebook
+Product Price: 100
+Product Quantity: 18
+Product Category: Stationary
+Product Availability: Available
+
+Product ID: 5
+Product Name: Pens
+Product Price: 10
+Product Quantity: 40
+Product Category: Stationary
+Product Availability: Available
+
+Product ID: 6
+Product Name: Books
+Product Price: 250
+Product Quantity: 1
+Product Category: Stationary
+Product Availability: Available
+
+Product ID: 7
+Product Name: Perfume
+Product Price: 400
+Product Quantity: 0
+Product Category: Beauty
+Product Availability: Not Available
+
+Product ID: 10
+Product Name: Medicine
+Product Price: 90
+Product Quantity: 13
+Product Category: Medical
+Product Availability: Available
+
+Product ID: 11
+Product Name: Pen
+Product Price: 10
+Product Quantity: 10
+Product Category: Stationary
+Product Availability: Available
+
+=========================================================================
+
+                            // Showing the cart
+
+Choose your query
+
+1. Add a product to cart
+
+2. Remove a product from cart
+
+3. Search a product
+
+4. Show your cart
+
+5. Checkout
+
+4
+
+You have 2 products in your cart
+________________________________________
+
+
+Product ID: 1
+Product Name: Toothpaste
+Product Price: 80
+Product Quantity: 5
+Product Category: Toiletries
+Product Availability: Available
+
+
+
+Product ID: 2
+Product Name: Soap
+Product Price: 50
+Product Quantity: 2
+Product Category: Toiletries
+Product Availability: Available
+
+________________________________________
+
+                            /// Checking out 
+
+Choose your query
+
+1. Add a product to cart
+
+2. Remove a product from cart
+
+3. Search a product
+
+4. Show your cart
+
+5. Checkout
+
+5
+
+You have 2 products in your cart
+________________________________________
+
+
+Product ID: 1
+Product Name: Toothpaste
+Product Price: 80
+Product Quantity: 5
+Product Category: Toiletries
+Product Availability: Available
+
+
+
+Product ID: 2
+Product Name: Soap
+Product Price: 50
+Product Quantity: 2
+Product Category: Toiletries
+Product Availability: Available
+
+________________________________________
+
+
+Total price: 500 Tk/-
+
+
+Checking out.......
+
+                            // Requesting Restock 
+
+1. Show the whole inventory of products
+
+2. Show only the available products
+
+3. Start Shopping from the available products
+
+4. Request Restock of an unavailable product
+
+5. Exit & Process your purchase
+
+4
+
+Please enter the id of the product which you want to be restocked:
+
+ID:
+
+7
+
+Your request has been processed! Thanks for your input!
+
+                             // Exiting and Processing purchase 
+
+1. Show the whole inventory of products
+
+2. Show only the available products
+
+3. Start Shopping from the available products
+
+4. Request Restock of an unavailable product
+
+5. Exit & Process your purchase
+
+4
+
+---------------------------------------------------------------------------------------------------------------
+|========================================SUPERSHOP PAYMENT RECEIPT========================================|
+---------------------------------------------------------------------------------------------------------------
+
+CONTACT INFO:
+
+
+Customer Id: 1
+Customer Name: Sarwad
+Customer address: Khanabari
+Customer Contact Number: 01869965299
+Customer Email: sarwad015@gmail.com
+Customer Gender: Male
+Customer Total spent: 0
+==========================================================================================================
+
+Cashier ID: 1
+Cashier: Namira
+==========================================================================================================
+
+SERIAL NO.               ITEM               QUANTITY               CATEGORY               PRICE
+    1                  Toothpaste               5                  Toiletries              80
+
+    2                  Soap               2                  Toiletries              50
+
+__________________________________________________________________________________________________
+
+TOTAL PRICE                                                                              500
+
+VAT                                                                                      75
+
+__________________________________________________________________________________________________
+
+GRAND TOTAL                                                                              575
+
+Thank you for choosing us  Sir. Come visit us again
+
+===========================SUPERSHOP MANAGEMENT SYSTEM BY SARWAD========================================
+
+                            // Exiting 
+
+=====================================================================
+
+=====================================================================
+
+-------------------------------------------------------------------
+|             Welcome to the Supershop Management System          |
+-------------------------------------------------------------------
+
+                   ::Choose a mode to login::
+
+1. Store Manager
+2. Customer
+3. Exit
+3
+===============================================================================
+
+
+|------------------THANKS FOR CHOOSING OUR SERVICE, MADE BY SARWAD----------------------|
+
+                          THE MANAGEMENT SYSTEM IS EXITING...
+
+
+                          // 2nd time logging in as same id
+
+=====================================================================
+
+-------------------------------------------------------------------
+|             Welcome to the Supershop Management System          |
+-------------------------------------------------------------------
+
+                   ::Choose a mode to login::
+
+1. Store Manager
+2. Customer
+3. Exit
+
+2
+
+2
+================================================================================================
+
+-------------------------------- -WELCOME TO OUR SUPERSHOP!!!----------------------------------
+
+          I am Namira, the cashier and I will be here the whole time to assist you!
+
+BUT BEFORE YOU CAN START BROWSING AND START SHOPPING HERE WE NEED TO REGISTER YOUR INFORMATIONS!!!
+
+
+Please enter your id:
+
+1
+
+
+=================================================================================================
+
+Welcome Back, Sarwad Sir!
+
+Please let us know how can we be of your service today,Sir!:
+
+
+=================================================================================================
+
+
+
+1. Show the whole inventory of products
+
+2. Show only the available products
+
+3. Start Shopping from the available products
+
+4. Request Restock of an unavailable product
+
+5. Exit & Process your purchase
+
+
+                                // Exiting as an Exclusive member 
+
+---------------------------------------------------------------------------------------------------------------
+|========================================SUPERSHOP PAYMENT RECEIPT========================================|
+---------------------------------------------------------------------------------------------------------------
+
+CONTACT INFO:
+
+
+Customer Id: 1
+Customer Name: Sarwad
+Customer address: Khanabari
+Customer Contact Number: 01869965299
+Customer Email: sarwad015@gmail.com
+Customer Gender: Male
+Customer Total spent: 0
+==========================================================================================================
+
+Cashier ID: 1
+Cashier: Namira
+==========================================================================================================
+
+SERIAL NO.               ITEM               QUANTITY               CATEGORY               PRICE
+    1                  Bag               1                  Utilities              1300
+
+__________________________________________________________________________________________________
+
+TOTAL PRICE                                                                              1300
+
+VAT                                                                                      195
+
+__________________________________________________________________________________________________
+
+GRAND TOTAL                                                                              1495
+
+
+Congratulations, you are now an exlusive member of this shop. Come back again to enjoy a flat 20% discount on your next purchase!!!
+
+Thank you for choosing us  Sir. Come visit us again
+
+===========================SUPERSHOP MANAGEMENT SYSTEM BY SARWAD========================================
+
+
+
+=====================================================================
+
+ 
+
+

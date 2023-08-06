@@ -1,0 +1,737 @@
+// OUTPUT File
+// Store Manager Section
+
+
+                     // 1. THE MAIN MENU
+
+=====================================================================
+
+-------------------------------------------------------------------
+|             Welcome to the Supershop Management System          |
+-------------------------------------------------------------------
+
+                   ::Choose a mode to login::
+
+1. Store Manager
+2. Customer
+3. Exit
+
+            // 2. The Store Manager mode has been chosen
+
+1
+===========================================================================
+
+       ::::PLEASE ENTER THE PASSWORD TO VERIFY YOUR IDENTITY:::
+
+
+// 3. Prompting to enter the fixed password to enter the store management system 
+
+Password:
+
+                // 4. The Password has been entered
+
+1
+===========================================================================
+
+       ::::PLEASE ENTER THE PASSWORD TO VERIFY YOUR IDENTITY:::
+
+
+Password:
+Manager
+
+                     // 5. The Manager's store management dashboard system 
+
+
+           WELCOME TO THE SHOP, MANAGER. HOW WOULD YOU LIKE TO MANAGE THE SHOP TODAY?
+
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. Search a product
+
+5. Recruit a cashier
+
+6. Fire a cashier
+
+7. Show all cashiers
+
+8. Show past transactions and details of the customers
+
+9. Exit and Finalize changes
+
+                       // 6.a. 1st Query: Add a product::
+
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. Search a product
+
+5. Recruit a cashier
+
+6. Fire a cashier
+
+7. Show all cashiers
+
+8. Show past transactions and details of the customers
+
+9. Exit and Finalize changes
+
+1
+
+                 //6.b. Asking the Manager if he wants to do auto stock or manual stock
+
+How do you want to stock the products?
+
+
+ 1. Default Stock
+
+
+ 2. Manual Stock
+
+              
+                  //6.c. Default Stocking of products  
+
+ 1
+
+ The products have been stocked by default
+                  
+                  //6.d. Manual Stocking of products
+
+ 2
+
+How many products do you want to add?
+
+1
+
+Please enter the id of the product
+
+11
+
+Please enter the name of the product
+
+Pen
+
+Please enter the quantity of the added product
+
+20
+
+Please enter the price of the added product
+
+10
+
+Please enter the category of the added prdouct
+
+Stationary
+
+The product has been successfully added to the inventory
+
+                        //7.a. Removing a product
+
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. Search a product
+
+5. Recruit a cashier
+
+6. Fire a cashier
+
+7. Show all cashiers
+
+8. Show past transactions and details of the customers
+
+9. Exit and Finalize changes
+
+2
+
+How many products do you want to remove?
+
+1
+
+Please enter the id of the product:
+
+11
+
+Please enter the quantity of the product
+
+10
+
+The product has been successfully removed from the inventory
+
+                            //8.a. Show all products 
+
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. Search a product
+
+5. Recruit a cashier
+
+6. Fire a cashier
+
+7. Show all cashiers
+
+8. Show past transactions and details of the customers
+
+9. Exit and Finalize changes
+
+3
+
+________________________________________
+There are total 10 products in the shop
+
+
+
+Product ID: 1
+Product Name: Toothpaste
+Product Price: 80
+Product Quantity: 7
+Product Category: Toiletries
+Product Availability: Available
+
+
+
+Product ID: 2
+Product Name: Soap
+Product Price: 50
+Product Quantity: 10
+Product Category: Toiletries
+Product Availability: Available
+
+
+
+Product ID: 3
+Product Name: Shampoo
+Product Price: 140
+Product Quantity: 8
+Product Category: Toiletries
+Product Availability: Available
+
+
+
+Product ID: 4
+Product Name: Notebook
+Product Price: 100
+Product Quantity: 18
+Product Category: Stationary
+Product Availability: Available
+
+
+
+Product ID: 5
+Product Name: Pens
+Product Price: 10
+Product Quantity: 40
+Product Category: Stationary
+Product Availability: Available
+
+
+
+Product ID: 6
+Product Name: Books
+Product Price: 250
+Product Quantity: 1
+Product Category: Stationary
+Product Availability: Available
+
+
+
+Product ID: 7
+Product Name: Perfume
+Product Price: 400
+Product Quantity: 0
+Product Category: Beauty
+Product Availability: Not Available
+
+
+
+Product ID: 8
+Product Name: Fan
+Product Price: 4000
+Product Quantity: 3
+Product Category: Household
+Product Availability: Available
+
+
+
+Product ID: 9
+Product Name: Bag
+Product Price: 1300
+Product Quantity: 5
+Product Category: Utilities
+Product Availability: Available
+
+
+
+Product ID: 10
+Product Name: Medicine
+Product Price: 90
+Product Quantity: 13
+Product Category: Medical
+Product Availability: Available
+
+
+
+Product ID: 11
+Product Name: Pen
+Product Price: 10
+Product Quantity: 10
+Product Category: Stationary
+Product Availability: Available
+
+________________________________________
+
+                            //9. Search the products 
+
+
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. Search a product
+
+5. Recruit a cashier
+
+6. Fire a cashier
+
+7. Show all cashiers
+
+8. Show past transactions and details of the customers
+
+9. Exit and Finalize changes
+
+4
+
+Choose the way you want to search the products
+
+1. Search by id
+
+
+2. Search by name
+
+
+3. Search by category
+
+
+4. Search by price range
+
+                            //9.a. Search by id 
+
+Please enter the id of the product
+
+ID:
+
+1
+
+
+=========================================================================
+
+Your desired product has been found in our shop
+
+The product is available
+ 
+
+Product ID: 1
+Product Name: Toothpaste
+Product Price: 80
+Product Quantity: 7
+Product Category: Toiletries
+Product Availability: Available
+
+
+=========================================================================
+
+
+                            //9.b. Search by name
+
+Choose the way you want to search the products
+
+
+ 1. Search by id
+
+
+ 2. Search by name
+
+
+ 3. Search by category
+
+
+ 4. Search by price range
+
+2
+
+Please enter the name of the product
+
+Name:
+
+Pen
+
+
+=========================================================================
+
+Your desired product has been found in our shop
+
+The product is available
+
+
+Product ID: 11
+Product Name: Pen
+Product Price: 10
+Product Quantity: 10
+Product Category: Stationary
+Product Availability: Available
+
+
+=========================================================================
+
+                            //9.c. Search by Category 
+
+Choose the way you want to search the products
+
+
+ 1. Search by id
+
+
+ 2. Search by name
+
+
+ 3. Search by category
+
+
+ 4. Search by price range
+
+3
+
+Please enter the category of the product
+
+Category:
+
+Stationary
+
+=========================================================================
+
+
+
+There are 4 products available in this category
+
+
+Product ID: 4
+Product Name: Notebook
+Product Price: 100
+Product Quantity: 18
+Product Category: Stationary
+Product Availability: Available
+
+Product ID: 5
+Product Name: Pens
+Product Price: 10
+Product Quantity: 40
+Product Category: Stationary
+Product Availability: Available
+
+Product ID: 6
+Product Name: Books
+Product Price: 250
+Product Quantity: 1
+Product Category: Stationary
+Product Availability: Available
+
+Product ID: 11
+Product Name: Pen
+Product Price: 10
+Product Quantity: 10
+Product Category: Stationary
+Product Availability: Available
+
+=========================================================================
+
+                            //9.d. Search by price range 
+
+Choose the way you want to search the products
+
+
+ 1. Search by id
+
+
+ 2. Search by name
+
+
+ 3. Search by category
+
+
+ 4. Search by price range
+
+4
+
+Please enter the price range of the product
+
+Lowest Price range:
+
+0
+
+Highest Price range:
+
+1000
+
+=========================================================================
+
+
+
+There are 9 products available in this price range
+
+
+Product ID: 1
+Product Name: Toothpaste
+Product Price: 80
+Product Quantity: 7
+Product Category: Toiletries
+Product Availability: Available
+
+Product ID: 2
+Product Name: Soap
+Product Price: 50
+Product Quantity: 10
+Product Category: Toiletries
+Product Availability: Available
+
+Product ID: 3
+Product Name: Shampoo
+Product Price: 140
+Product Quantity: 8
+Product Category: Toiletries
+Product Availability: Available
+
+Product ID: 4
+Product Name: Notebook
+Product Price: 100
+Product Quantity: 18
+Product Category: Stationary
+Product Availability: Available
+
+Product ID: 5
+Product Name: Pens
+Product Price: 10
+Product Quantity: 40
+Product Category: Stationary
+Product Availability: Available
+
+Product ID: 6
+Product Name: Books
+Product Price: 250
+Product Quantity: 1
+Product Category: Stationary
+Product Availability: Available
+
+Product ID: 7
+Product Name: Perfume
+Product Price: 400
+Product Quantity: 0
+Product Category: Beauty
+Product Availability: Not Available
+
+Product ID: 10
+Product Name: Medicine
+Product Price: 90
+Product Quantity: 13
+Product Category: Medical
+Product Availability: Available
+
+Product ID: 11
+Product Name: Pen
+Product Price: 10
+Product Quantity: 10
+Product Category: Stationary
+Product Availability: Available
+
+=========================================================================
+
+
+                            //10. Recruiting a cashier 
+
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. Search a product
+
+5. Recruit a cashier
+
+6. Fire a cashier
+
+7. Show all cashiers
+
+8. Show past transactions and details of the customers
+
+9. Exit and Finalize changes
+
+5
+
+How many employees do you want to recruit?
+
+1
+
+Please enter the id of the employee
+
+2
+
+Please enter the name of the employee
+
+Karim
+
+A employee has been successfully recruited 
+
+                            //11. Firing a cashier 
+
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. Search a product
+
+5. Recruit a cashier
+
+6. Fire a cashier
+
+7. Show all cashiers
+
+8. Show past transactions and details of the customers
+
+9. Exit and Finalize changes
+
+6
+
+How many employees do you want to fire?
+
+1
+
+Please enter the id of the employee
+
+2
+
+The employee has been fired!
+
+                            //12. Show all cashiers 
+
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. Search a product
+
+5. Recruit a cashier
+
+6. Fire a cashier
+
+7. Show all cashiers
+
+8. Show past transactions and details of the customers
+
+9. Exit and Finalize changes
+
+7
+
+There are total 1 employees in the shop
+
+
+
+Cashier ID: 1
+Cashier Name: Namira
+
+________________________________________
+
+                             //13. Show past transactions and details of the customers
+
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. Search a product
+
+5. Recruit a cashier
+
+6. Fire a cashier
+
+7. Show all cashiers
+
+8. Show past transactions and details of the customers
+
+9. Exit and Finalize changes
+
+
+=========================================================================
+
+Total of 0 customers have visited this shop
+
+=========================================================================
+
+                            // 14. Exiting and finalizing the changes 
+
+
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. Search a product
+
+5. Recruit a cashier
+
+6. Fire a cashier
+
+7. Show all cashiers
+
+8. Show past transactions and details of the customers
+
+9. Exit and Finalize changes
+
+9
+
+YOUR REQUESTS HAVE BEEN SUCCESSFULLY PROCESSED!!!
+
+
+       
+
+
